@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #a4bcd4;
+}
+img {
+  float: right;
+  width: 170px;
+  height: auto;
+}
+nav li {
+  display: inline;
+  margin-right: 10px;
+  text-align: right;
+}
+
+h1 {
+  color: #060000;
+  text-align: center;
+}
+
+p {
+  color: #0e0000;
+  line-height: 1.5;
+}
+a {
+  color: #090909;
+  text-decoration: none;
+  display: inline;
+  margin-right: 10px;
+}
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  margin-top: 10px;
+  cursor: pointer;
+}
